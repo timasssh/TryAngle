@@ -1,0 +1,1 @@
+export default document.querySelectorAll("form").forEach((element) => {element.addEventListener("submit", (event) =>{event.preventDefault()})})
