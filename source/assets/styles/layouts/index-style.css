@@ -7,3 +7,6 @@ main form  {
     flex-direction: column;
     gap: 3px;
 }
+.formResult {
+    min-height: 1rem;
+}
